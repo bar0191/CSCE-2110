@@ -1,0 +1,9 @@
+removenode,B
+removenode,J
+removeedge,F,I
+removeedge,A,F
+removeedge,C,F
+removeedge,E,H
+addnode,K
+addedge,E,G
+addedge,D,K
